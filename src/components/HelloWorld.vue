@@ -131,8 +131,11 @@ export default {
   name: "HelloWorld",
   props: {
     msg: String
+  },
+  methods: {
+    asv() {}
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
